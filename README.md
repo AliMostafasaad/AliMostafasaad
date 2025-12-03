@@ -14,7 +14,8 @@
 <ul>
 <li>🔭 I’m currently working on <strong>Credit Card Fraud Detection</strong> and other ML projects.</li>
 <li>🧠 Focused on <strong>supervised learning</strong>, <strong>model evaluation for imbalanced data</strong>, and <strong>ML pipelines</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/your-github-username">GitHub</a>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/AliMostafasaad
+e">GitHub</a>.</li>
 <li>💬 Ask me about <strong>machine learning, Python, scikit-learn, and model evaluation</strong>.</li>
 <li>🌍 Open to <strong>collaboration</strong> on ML projects and research ideas.</li>
 <li>🎉 Fun fact: I enjoy learning ML by building end-to-end projects.</li>
