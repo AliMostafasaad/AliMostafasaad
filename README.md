@@ -1,11 +1,11 @@
-<h2>Hey 👋, I'm <a href="https://github.com/your-github-username">[Your Name]</a></h2>
+<h2>Hey 👋, I'm <a href="https://github.com/your-github-username">[ِAli Mostafa]</a></h2>
 <p>I'm a <strong>Machine Learning Engineer</strong> building intelligent systems and solving real-world problems using data.</p>
 <p>🎓 Completed the <strong>Machine Learning Specialization</strong> by <a href="https://www.deeplearning.ai/courses/machine-learning-specialization/">Andrew Ng</a> and a full <strong>AI & Machine Learning Diploma</strong> with Dr. Mostafa Saad.</p>
 
 <p>
-<a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub Badge"></a>
-<a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Badge"></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
+<a href="https://github.com/AliMostafasaad"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub Badge"></a>
+<a href="https://www.linkedin.com/in/ali-mostafa-06329b284//"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Badge"></a>
+<a href="alimostafadh@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
 </p>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
